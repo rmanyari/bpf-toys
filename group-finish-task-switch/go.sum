@@ -1,0 +1,4 @@
+github.com/iovisor/gobpf v0.0.0-20191017091429-c3024dcc6881 h1:DRdqUzrTOOIlh9Fzmf59XZBLoTrUdiSN3Z0ThUkVfqM=
+github.com/iovisor/gobpf v0.0.0-20191017091429-c3024dcc6881/go.mod h1:+5U5qu5UOu8YJ5oHVLvWKH7/Dr5QNHU7mZ2RfPEeXg8=
+github.com/rmanyari/gobpf v0.0.0-20191016224000-4fca00cadae5 h1:U/MsQQgni5sIvps0yUjZn5x5Wq/VuDzSpiJQsRFUZAo=
+github.com/rmanyari/gobpf v0.0.0-20191016224000-4fca00cadae5/go.mod h1:QYTamQcArwU0+VLhG6ZbG79xLSb1vn6d1iHDqXwqCmA=
