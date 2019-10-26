@@ -1,4 +1,4 @@
-module github.com/rmanyar/bpf-toys/count-finish-task-switch
+module github.com/rmanyari/bpf-toys/count-finish-task-switch
 
 go 1.13
 
