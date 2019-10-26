@@ -1,4 +1,4 @@
-module github.com/rmanyar/bpf-toys/group-finish-task-switch
+module github.com/rmanyari/bpf-toys/group-finish-task-switch
 
 go 1.13
 
